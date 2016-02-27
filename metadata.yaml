@@ -1,0 +1,35 @@
+_repo: A-House-of-Pomegranates_873
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: These four fairy tales from Oscar Wilde weave magical, mythical, and
+  mystical stories of princes, princesses, mermaids and Star-Children. Wilde wrote
+  these tales were for Cyril and Vyvyan, his young sons. They are fairy tales that
+  teach lessons, but their lessons are unique.
+gutenberg_bookshelf: Opera
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: The young king -- The birthday of the Infanta -- The fisherman and
+  his soul -- The Star-child.
+title: A House of Pomegranates
+url: http://www.gutenberg.org/ebooks/873
