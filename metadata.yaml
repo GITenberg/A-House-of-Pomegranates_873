@@ -1,5 +1,8 @@
 _repo: A-House-of-Pomegranates_873
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 873-h/images/coverb.jpg
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -15,6 +18,8 @@ description: These four fairy tales from Oscar Wilde weave magical, mythical, an
   mystical stories of princes, princesses, mermaids and Star-Children. Wilde wrote
   these tales were for Cyril and Vyvyan, his young sons. They are fairy tales that
   teach lessons, but their lessons are unique.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/873#A-House-of-Pomegranates
 gutenberg_bookshelf: Opera
 gutenberg_issued: '1997-04-01'
 gutenberg_type: Text
